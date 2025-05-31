@@ -1,20 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>My Private Podcast</title>
+    <title>My Private Kubernetes Podcast</title>
     <link>https://YOUR_USERNAME.github.io/private-podcast</link>
     <language>en-us</language>
-    <itunes:author>Your Name</itunes:author>
+    <itunes:author>Zohar Golan</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
     <itunes:image href="https://YOUR_USERNAME.github.io/private-podcast/logo.jpg"/>
-    <itunes:category text="Personal"/>
+    <description>Private Kubernetes podcast lessons</description>
 
     <item>
-      <title>Episode 1</title>
-      <enclosure url="https://YOUR_USERNAME.github.io/private-podcast/episode1.mp3" length="12345678" type="audio/mpeg"/>
-      <guid>https://YOUR_USERNAME.github.io/private-podcast/episode1.mp3</guid>
+      <title>Introduction to Kubernetes</title>
+      <enclosure url="https://YOUR_USERNAME.github.io/private-podcast/Introduction_to_Kubernetes.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://YOUR_USERNAME.github.io/private-podcast/Introduction_to_Kubernetes.mp3</guid>
       <pubDate>Sat, 01 Jun 2025 08:00:00 +0300</pubDate>
-      <description>Welcome to my private podcast.</description>
+      <description>Overview of Kubernetes fundamentals.</description>
     </item>
+
+    <item>
+      <title>Kubernetes Architecture</title>
+      <enclosure url="https://YOUR_USERNAME.github.io/private-podcast/Kubernetes_Architecture.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://YOUR_USERNAME.github.io/private-podcast/Kubernetes_Architecture.mp3</guid>
+      <pubDate>Sun, 02 Jun 2025 08:00:00 +0300</pubDate>
+      <description>Understand the components of the Kubernetes architecture.</description>
+    </item>
+
+    <item>
+      <title>Setting Up Kubernetes</title>
+      <enclosure url="https://YOUR_USERNAME.github.io/private-podcast/Setting_Up_Kubernetes.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://YOUR_USERNAME.github.io/private-podcast/Setting_Up_Kubernetes.mp3</guid>
+      <pubDate>Mon, 03 Jun 2025 08:00:00 +0300</pubDate>
+      <description>Steps to install and configure Kubernetes.</description>
+    </item>
+
+    <item>
+      <title>Pods and Containers</title>
+      <enclosure url="https://YOUR_USERNAME.github.io/private-podcast/Pods_and_Containers.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://YOUR_USERNAME.github.io/private-podcast/Pods_and_Containers.mp3</guid>
+      <pubDate>Tue, 04 Jun 2025 08:00:00 +0300</pubDate>
+      <description>Learn about pods and containers in Kubernetes.</description>
+    </item>
+
+    <item>
+      <title>Services and Networking</title>
+      <enclosure url="https://YOUR_USERNAME.github.io/private-podcast/Services_and_Networking.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://YOUR_USERNAME.github.io/private-podcast/Services_and_Networking.mp3</guid>
+      <pubDate>Wed, 05 Jun 2025 08:00:00 +0300</pubDate>
+      <description>Deep dive into Kubernetes networking and service discovery.</description>
+    </item>
+
+    <item>
+      <title>Deployments and ReplicaSets</title>
+      <enclosure url="https://YOUR_USERNAME.github.io/private-podcast/Deployments_and_ReplicaSets.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://YOUR_USERNAME.github.io/private-podcast/Deployments_and_ReplicaSets.mp3</guid>
+      <pubDate>Thu, 06 Jun 2025 08:00:00 +0300</pubDate>
+      <description>Managing scalable workloads with deployments and replicasets.</description>
+    </item>
+
   </channel>
 </rss>
