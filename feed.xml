@@ -58,5 +58,47 @@
       <description>Managing scalable workloads with deployments and replicasets.</description>
     </item>
 
+    <item>
+       <title>certificates</title>
+       <enclosure url="https://zohargolano.github.io/private-podcast/Kubernetes_Architecture.mp3" length="12345678" type="audio/mpeg"/>
+       <guid>https://zohargolano.github.io/private-podcast/certificates.mp3</guid>
+       <pubDate>Sun, 02 Jun 2025 08:00:00 +0300</pubDate>
+       <description>Understand the components of certificates.</description>
+     </item>
+
+     <item>
+       <title>ConfigMaps And Secrets</title>
+       <enclosure url="https://zohargolano.github.io/private-podcast/Setting_Up_Kubernetes.mp3" length="12345678" type="audio/mpeg"/>
+       <guid>https://zohargolano.github.io/private-podcast/ConfigsMaps_and_Secrets.mp3</guid>
+       <pubDate>Mon, 03 Jun 2025 08:00:00 +0300</pubDate>
+       <description>ConfigMaps And Secrets in Kubernetes.</description>
+     </item>
+
+     <item>
+       <title>Pods and Containers</title>
+       <enclosure url="https://zohargolano.github.io/private-podcast/Pods_and_Containers.mp3" length="12345678" type="audio/mpeg"/>
+       <guid>https://zohargolano.github.io/private-podcast/Resources_and_Namespaces.mp3</guid>
+       <pubDate>Tue, 04 Jun 2025 08:00:00 +0300</pubDate>
+       <description>Learn about pods and Resources_and_Namespaces in Kubernetes.</description>
+     </item>
+
+     <item>
+       <title>Services and Networking</title>
+       <enclosure url="https://zohargolano.github.io/private-podcast/Services_and_Networking.mp3" length="12345678" type="audio/mpeg"/>
+       <guid>https://zohargolano.github.io/private-podcast/Persistent_Storage.mp3</guid>
+       <pubDate>Wed, 05 Jun 2025 08:00:00 +0300</pubDate>
+       <description>Understanding Persistent Storage Options.</description>
+     </item>
+
+     <item>
+       <title>Deployments and ReplicaSets</title>
+       <enclosure url="https://zohargolano.github.io/private-podcast/Deployments_and_ReplicaSets.mp3" length="12345678" type="audio/mpeg"/>
+       <guid>https://zohargolano.github.io/private-podcast/Deployments/Post-Quantum_Cryptography_PQC.mp3</guid>
+       <pubDate>Thu, 06 Jun 2025 08:00:00 +0300</pubDate>
+       <description>Post-Quantum_Cryptography_PQC.</description>
+     </item>
+
+
+
   </channel>
 </rss>
